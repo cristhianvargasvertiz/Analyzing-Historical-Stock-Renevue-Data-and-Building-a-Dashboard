@@ -68,7 +68,7 @@ def update_input_container(value):
     Input(component_id='select-year', component_property='value')])
 
 
-def update_output_container(input_year, selected_statistics):
+def update_output_container(selected_statistics, input_year):
     if selected_statistics == 'Recession Period Statistics':
         # Filter the data for recession periods
         recession_data = data[data['Recession'] == 1]
@@ -128,7 +128,7 @@ def update_output_container(input_year, selected_statistics):
 
 # TASK 2.6: Create and display graphs for Yearly Report Statistics
 # Yearly Statistic Report Plots                             
-    elif (input_year and selected_statistics=='Yearly Statistics') :
+    elif (input_year and selected_statistics == 'Yearly Statistics') :
         yearly_data = data[data['Year'] == 'Yearly Statistics']
                               
 #TASK 2.5: Creating Graphs Yearly data
