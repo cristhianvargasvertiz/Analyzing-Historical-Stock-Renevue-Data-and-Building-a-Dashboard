@@ -2,7 +2,7 @@
 
 ![image](https://github.com/cristhianvargasvertiz/Cristhian-Vargas/assets/152247944/28b306f1-929b-40aa-9004-6466a842c5aa)
 
-![image](https://github.com/cristhianvargasvertiz/Cristhian-Vargas/assets/152247944/d991bab2-d81c-4ad3-afab-f83eac2ace53)
+![image](https://github.com/cristhianvargasvertiz/Cristhian-Vargas/assets/152247944/9105cd8f-a85a-4b74-954e-a37ff472a59c)
 
 link:
 
