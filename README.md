@@ -1,5 +1,5 @@
-# IBM Capstone Project
-Stack Overflow’s annual Developer Survey is the largest and most comprehensive survey of people who code around the world.![image](https://github.com/user-attachments/assets/f1a82405-2410-44d3-8654-6c23f41d5b03)
+# IBM Data Analyst Capstone Project
+Stack Overflow’s annual Developer Survey is the largest and most comprehensive survey of people who code around the world.
 
 Overview
 Stack Overflow’s Annual Developer Survey is the largest and most comprehensive survey of developers worldwide. This survey provides valuable insights into the tech industry, offering predictive potential to anticipate shifts in technology and labor market trends.
